@@ -335,7 +335,7 @@ endipresult() {
     echo ""
     echo -e "${green} Saved in result.csv${rest}"
     echo ""
-    echo -e "${red}.${BRed} Don't Forget SHΞЯVIN™     ${rest}"
+    echo -e "${red}  💛Don't Forget SHΞЯVIN™💛     ${rest}"
     echo ""
     if [ "$Endip_v4" ]; then
         echo -e "${purple}************************************${rest}"
@@ -360,7 +360,9 @@ endipresult() {
 }
 
 clear
-echo -e "${cyan}By --> ÐΛɌ₭ᑎΞ𐒡𐒡  ${red}<* ♥️Don't Forget SHΞЯVIN™♥️ *> ${rest}"
+echo -e "${yellow}#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#${rest}"
+echo -e "${yellow}#+${cyan}By --> ÐΛɌ₭ᑎΞ𐒡𐒡🚭  ${red}<* 🩵Don't Forget SHΞЯVIN™🩵 *> ${yellow}+#${rest}"
+echo -e "${yellow}#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#${rest}"
 echo ""
 echo -e "${purple}*********************${rest}"
 echo -e "${purple}* ${green}Endpoint Scanner ${purple} *${rest}"
