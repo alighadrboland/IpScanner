@@ -298,8 +298,8 @@ endipresult() {
         echo -e "${purple}************************************${rest}"
     elif [ "$Endip_v6" ]; then
         echo -e "${purple}********************************************${rest}"
-	echo -e "${purple}*${red}     💛Don't Forget SHΞЯVIN™💛     ${purple}*${rest}"
-        echo -e "${purple}*                                  *${rest}"
+	echo -e "${purple}*${red}         💛Don't Forget SHΞЯVIN™💛          ${purple}*${rest}"
+        echo -e "${purple}*                                          *${rest}"
         echo -e "${purple}*          ${yellow}Best [IPv6]:Port                ${purple}*${rest}"
         echo -e "${purple}*                                          *${rest}"
         echo -e "${purple}* ${cyan}$Endip_v6${purple} *${rest}"
