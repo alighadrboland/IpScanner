@@ -284,6 +284,7 @@ endipresult() {
     delay=$(cat result.csv | grep -oE "[0-9]+ ms|timeout" | head -n 1)
     echo ""
     echo -e "${green}Results Saved in result.csv${rest}"
+    echo -e "${red} فراموش نکنیم SHΞЯVIN™ ${rest}"
     echo ""
     if [ "$Endip_v4" ]; then
         echo -e "${purple}************************************${rest}"
