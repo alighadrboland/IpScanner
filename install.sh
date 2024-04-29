@@ -335,7 +335,7 @@ endipresult() {
     echo ""
     echo -e "${green} Saved in result.csv${rest}"
     echo ""
-    echo -e "${red} ${BRed}           Don't Forgot SHΞЯVIN™     ${rest}"
+    echo -e "${red}${BRed}   Don't Forgot SHΞЯVIN™     ${rest}"
     echo ""
     if [ "$Endip_v4" ]; then
         echo -e "${purple}************************************${rest}"
