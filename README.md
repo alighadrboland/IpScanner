@@ -4,9 +4,12 @@ IP CLEAN
 اسکنر IP Clean 
 برای استفاده کد زیر را کپی کنید و در برنامه Termux جایگذاری کیند
 
+
 ```
 https://raw.githubusercontent.com/mansor427/IpScanner/main/install.sh)
 ```
+
+
 ![Screenshot_2024-04-29-19-29-04-844_com termux-edit](https://github.com/mansor427/IpScanner/assets/104245967/70e1785d-3c5a-4ad8-9022-e7c26feef5a3)
 
 سپس inter را بزنید
