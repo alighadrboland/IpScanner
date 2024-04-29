@@ -335,7 +335,7 @@ endipresult() {
     echo ""
     echo -e "${green} Saved in result.csv${rest}"
     echo ""
-    echo -e "${red}  💛Don't Forget SHΞЯVIN™💛     ${rest}"
+    echo -e "${BRed}  💛Don't Forget SHΞЯVIN™💛     ${rest}"
     echo ""
     if [ "$Endip_v4" ]; then
         echo -e "${purple}************************************${rest}"
@@ -361,7 +361,7 @@ endipresult() {
 
 clear
 echo -e "${blue}#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#${rest}"
-echo -e "${blue}#+${cyan} By --> ÐΛɌ₭ᑎΞ𐒡𐒡 ${blue}# ${red}🩵Don't Forget SHΞЯVIN™🩵${blue}+#${rest}"
+echo -e "${blue}#+${cyan} By --> ÐΛɌ₭ᑎΞ𐒡𐒡 ${blue}# ${red}🧡Don't Forget SHΞЯVIN™🧡${blue} +#${rest}"
 echo -e "${blue}#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#${rest}"
 echo ""
 echo -e "${purple}*********************${rest}"
