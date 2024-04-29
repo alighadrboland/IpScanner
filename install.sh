@@ -361,7 +361,7 @@ endipresult() {
 
 clear
 echo -e "${yellow}#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#${rest}"
-echo -e "${yellow}#+${cyan}By --> ÐΛɌ₭ᑎΞ𐒡𐒡🚭  ${red}<* 🩵Don't Forget SHΞЯVIN™🩵 *> ${yellow}+#${rest}"
+echo -e "${yellow}#+${cyan}By --> ÐΛɌ₭ᑎΞ𐒡𐒡🚭 ${red}🩵Don't Forget SHΞЯVIN™🩵${yellow}+#${rest}"
 echo -e "${yellow}#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#${rest}"
 echo ""
 echo -e "${purple}*********************${rest}"
