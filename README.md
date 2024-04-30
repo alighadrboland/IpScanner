@@ -7,6 +7,7 @@
 # اسکنر `IP Clean`
 
 ### برای استفاده کد زیر را کپی کنید و در برنامه `Termux` جایگذاری کیند
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=TERMUX+LINK+DOWNLOAD &color=7E3ACE&style=flat&logo" alt="https://f-droid.org/en/packages/com.termux" /></a></p>
 
 ![212284100-561aa473-3905-4a80-b561-0d28506553ee](https://github.com/mansor427/IpScanner/assets/104245967/b09437c5-ffbc-49b9-ab64-fd138739dd66)
 
