@@ -7,10 +7,10 @@
 # اسکنر `IP Clean`
 
 ### برای استفاده کد زیر را کپی کنید و در برنامه `Termux` جایگذاری کیند
-<a href="">
+<a href="https://f-droid.org/en/packages/com">
     <img alt="TERMUX" src="https://img.shields.io/static/v1?label&message=TERMUX&color=7E3ACE&style=for-the-badge" />
 <a href="https://f-droid.org/en/packages/com.termux">
-    <img alt="TERMUX" src="https://img.shields.io/static/v1?label&message=download &color=3498DB&style=for-the-badge" />
+    <img alt="download" src="https://img.shields.io/static/v1?label&message=download &color=3498DB&style=for-the-badge" />
 </a>
 
 
