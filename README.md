@@ -1,6 +1,13 @@
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Ip%20Scanner&reversal=false&descAlign=52&descAlignY=31&fontAlign=49&fontColor=AAAA&textBg=false&fontSize=60&fontAlignY=25&descSize=1"/>
+</p>
+
 # Ip Scanner
+
 ![Rainbow](https://github.com/mansor427/IpScanner/assets/104245967/08ccb46c-51a3-4d16-a0a4-27fb7492d35d)
+
 # IP CLEAN
+
 ![Rainbow](https://github.com/mansor427/IpScanner/assets/104245967/08ccb46c-51a3-4d16-a0a4-27fb7492d35d)
 
 
@@ -60,9 +67,8 @@ https://raw.githubusercontent.com/mansor427/IpScanner/main/install.sh)
 
 
 
-![212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f](https://github.com/mansor427/IpScanner/assets/104245967/8d2882da-db07-4bc0-b314-8c32bed27cce)
-![212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f](https://github.com/mansor427/IpScanner/assets/104245967/8d2882da-db07-4bc0-b314-8c32bed27cce)
-![212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f](https://github.com/mansor427/IpScanner/assets/104245967/8d2882da-db07-4bc0-b314-8c32bed27cce)
-![212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f](https://github.com/mansor427/IpScanner/assets/104245967/8d2882da-db07-4bc0-b314-8c32bed27cce)
 
+
+
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
 
