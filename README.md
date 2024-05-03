@@ -14,12 +14,7 @@
 # اسکنر `IP Clean`
 
 ### برای استفاده کد زیر را کپی کنید و در برنامه `Termux` جایگذاری کیند
-<a href="https://f-droid.org/en/packages/com.termux">
-    <img alt="TERMUX" src="https://img.shields.io/static/v1?label&message=TERMUX&color=7E3ACE&style=for-the-badge" />
-<a href="https://f-droid.org/en/packages/com.termux">
-    <img alt="download" src="https://img.shields.io/static/v1?label&message=download &color=3498DB&style=for-the-badge" />
-</a>
-
+[![Termux](https://img.shields.io/badge/Download-Termux-purple?style=plastic)](https://github.com/termux/termux-app/releases/tag/v0.118.0)
 
 ![212284100-561aa473-3905-4a80-b561-0d28506553ee](https://github.com/mansor427/IpScanner/assets/104245967/b09437c5-ffbc-49b9-ab64-fd138739dd66)
 
