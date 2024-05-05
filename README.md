@@ -2,17 +2,6 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Ip%20Scanner&reversal=false&descAlign=52&descAlignY=31&fontAlign=49&fontColor=AAAA&textBg=false&fontSize=60&fontAlignY=25&descSize=1"/>
 </p>
 
-🇮🇷 [Persian](README-fa.md)   
-
-
-🇹🇷 [Turkish](README.tr.md)  
-
-
-🇬🇧  [English](README.md)  
-
-
-🇨🇳[ Chinese](README.zh-CN.md)
-
 
 # Ip Scanner
 
