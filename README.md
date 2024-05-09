@@ -64,7 +64,7 @@ bash <(curl -fsSL https://raw.githubusercontent.com/mansor427/IpScanner/main/ins
 
 
 ## Credits
-### Peyman ==> github.com/Ptechgithub
+### Peyman ==>  [github.com/Ptechgithub](https://github.com/Ptechgithub)
 
 
 
