@@ -2,6 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Ip%20Scanner&reversal=false&descAlign=52&descAlignY=31&fontAlign=49&fontColor=AAAA&textBg=false&fontSize=60&fontAlignY=25&descSize=1"/>
 </p>
 
+[![](https://visitcount.itsvg.in/api?id=Mansor427&label=%20Views&color=6&icon=5&pretty=false)](https://github/mansor427/IpScanner)
 
 # Ip Scanner
 
