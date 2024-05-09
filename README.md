@@ -59,10 +59,12 @@ bash <(curl -fsSL https://raw.githubusercontent.com/mansor427/IpScanner/main/ins
 
 ![IMG_20240429_221758](https://github.com/mansor427/IpScanner/assets/104245967/346f9383-4735-4bd8-858f-97a58e4156fe)
 
+
 #### موفق باشید.
 
 
-
+## Credits
+### Peyman ==> github.com/Ptechgithub
 
 
 
