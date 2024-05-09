@@ -63,8 +63,8 @@ bash <(curl -fsSL https://raw.githubusercontent.com/mansor427/IpScanner/main/ins
 #### موفق باشید.
 
 
-## Credits
-### Peyman ==>  [github.com/Ptechgithub](https://github.com/Ptechgithub)
+## 💠Credits
+### Peyman ==>  [Ptechgithub](https://github.com/Ptechgithub)
 
 
 
