@@ -18,6 +18,14 @@
 
 ![Rainbow](https://github.com/mansor427/IpScanner/assets/104245967/08ccb46c-51a3-4d16-a0a4-27fb7492d35d)
 
+
+> ### Educational video
+> ### ویدئو آموزشی
+> ### [👉🎥🎥VIDEO🎥🎥👈](https://file-to-link-bot-botiodevs-918c1f28643d.herokuapp.com/watch/663e32ad9ea6d38308d8e2e3)
+
+
+
+
 > [!NOTE]
 > # اسکنر `IP Clean`
 > ### برای استفاده کد زیر را کپی کنید و در برنامه `Termux` جایگذاری کیند
