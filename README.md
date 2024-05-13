@@ -68,6 +68,9 @@ bash <(curl -fsSL https://raw.githubusercontent.com/mansor427/IpScanner/main/ins
 ![212284100-561aa473-3905-4a80-b561-0d28506553ee](https://github.com/mansor427/IpScanner/assets/104245967/b09437c5-ffbc-49b9-ab64-fd138739dd66)
 > [!CAUTION]
 > ## عدد 3
+> با انتخاب 3 یک کانفیگ رایگان تولید میشود و به طور خودکار IP سالم پیدا شده در کانفیگ اضافه میشود.
+این کانفیگ برای [V2rayNG](https://github.com/2dust/v2rayNG/releases) و [Nekobox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases) و برنامه [WireGuard](https://github.com/WireGuard) قابل استفاده است.
+
 ![212284100-561aa473-3905-4a80-b561-0d28506553ee](https://github.com/mansor427/IpScanner/assets/104245967/b09437c5-ffbc-49b9-ab64-fd138739dd66)
 
 ![IMG_20240429_221758](https://github.com/mansor427/IpScanner/assets/104245967/346f9383-4735-4bd8-858f-97a58e4156fe)
