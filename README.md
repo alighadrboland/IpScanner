@@ -9,9 +9,9 @@
 > turn off vpn
 > فیلتر شکن خاموش باشد
 # Ip Scanner
-[![Termux📲](https://img.shields.io/badge/Download-Termux-purple?style=plastic)](https://github.com/termux/termux-app/releases/tag/v0.118.0)
+[![Termux📲](https://img.shields.io/badge/Download-Termux📲-purple?style=plastic)](https://github.com/termux/termux-app/releases/tag/v0.118.0)
 
-[![Ip Scanner windows💻](https://img.shields.io/badge/Download-Ip_Scanner_windows-cyan?style=plastic)](https://github.com/mansor427/IpScanner/raw/main/win%20ip%20scanner/IP%20Scanner.rar)
+[![Ip Scanner windows💻](https://img.shields.io/badge/Download-Ip_Scanner_windows💻-cyan?style=plastic)](https://github.com/mansor427/IpScanner/raw/main/win%20ip%20scanner/IP%20Scanner.rar)
 
 # IP CLEAN
 
