@@ -76,6 +76,15 @@ bash <(curl -fsSL https://raw.githubusercontent.com/mansor427/IpScanner/main/ins
 ![IMG_20240429_221758](https://github.com/mansor427/IpScanner/assets/104245967/346f9383-4735-4bd8-858f-97a58e4156fe)
 
 
+---
+### [4] با انتخاب گزینه ی 4 یک کانفیگ وایرگارد تولید شده که همراه با مقدار Reserved  است. و جهت استفاده در V2rayNG میباشد.
+### این گزینه برای شما wire-g را نصب میکند برای نمایش کامل راهنما کافیه عبارت `warp-g -h` را وارد کنید و برای گرفتن کانفیگ وایرگارد فقط `warp-g` را وارد کرده و اینتر بزنید.(این گزینه مجدد نیاز به نصب و اجرای مجدد توسط اسکریپت نمی باشد). 
+### بعد از دریافت کانفیگ رایگان و اضافه کردن آن در V2rayNG به جای `engage.cloudflareclient.com` باید IP اسکن شده بزارید چون این ادرس فیلتر شده است.
+---
+---
+### جهت دانلود اسکنر ویندوز کلیک کنید [Ip Scanner widows](https://github.com/mansor427/IpScanner/raw/main/win%20ip%20scanner/IP%20Scanner.rar)
+---
+
 > [!WARNING]
 > #### موفق باشید.
 
