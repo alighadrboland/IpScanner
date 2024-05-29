@@ -327,7 +327,7 @@ wire-g() {
                 apt install wireguard-tools jq xz-utils bzip2 -y
             fi
         fi
-        curl -o $PREFIX/bin/wire-g https://raw.githubusercontent.com/mansor427/IpScanner/main/wire-g.sh
+        curl -o $PREFIX/bin/wire-g https://raw.githubusercontent.com/Ptechgithub/warp/main/wire-g.sh
         chmod +x $PREFIX/bin/wire-g
         echo ""
         echo -e "${purple}*********************${rest}"
