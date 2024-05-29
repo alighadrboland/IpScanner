@@ -190,7 +190,7 @@ generate() {
 			    pkg install curl -y
 			fi
             if [[ -n $cpu ]]; then
-                curl -o "$PREFIX/bin/wgcf" -L "https://raw.githubusercontent.com/Ptechgithub/warp/main/endip/wgcf"
+                curl -o "$PREFIX/bin/wgcf" -L "https://raw.githubusercontent.com/mansor427/IpScanner/main/wgcf"
                 chmod +x "$PREFIX/bin/wgcf"
             fi
         else
@@ -313,6 +313,37 @@ endipresult() {
     exit
 }
 
+# Run wire-g and get Wireguard Config
+wire-g() {
+    if [ ! -f "$PREFIX/bin/wire-g" ]; then
+        if [ -f "$HOME/.termux" ]; then
+            if ! command -v wg &> /dev/null || ! command -v jq &> /dev/null || ! command -v xz &> /dev/null || ! command -v bzip2 &> /dev/null; then
+                pkg update -y && pkg upgrade -y
+                pkg install wireguard-tools jq xz-utils bzip2 -y
+            fi
+        else
+            if ! command -v wg &> /dev/null || ! command -v jq &> /dev/null || ! command -v xz &> /dev/null || ! command -v bzip2 &> /dev/null; then
+                apt update -y
+                apt install wireguard-tools jq xz-utils bzip2 -y
+            fi
+        fi
+        curl -o $PREFIX/bin/wire-g https://raw.githubusercontent.com/mansor427/IpScanner/main/wire-g.sh
+        chmod +x $PREFIX/bin/wire-g
+        echo ""
+        echo -e "${purple}*********************${rest}"
+        echo -e "${yellow}Run --> ${green}wire-g${rest}"
+        echo -e "${yellow}Help --> ${green}wire-g -h${rest}"
+        echo -e "${purple}*********************${rest}"
+    else
+        echo ""
+        echo -e "${purple}*********************${rest}"
+        echo -e "${yellow}Run --> ${green}wire-g${rest}"
+        echo -e "${yellow}Help --> ${green}wire-g -h${rest}"
+        echo -e "${purple}*********************${rest}"
+    fi
+}
+
+
 clear
 echo -e "${blue}#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#${rest}"
 echo -e "${blue}#+***********************************************+#${rest}"
@@ -350,6 +381,9 @@ case "$choice" in
         ;;
     3)
         generate
+        ;;
+    4)
+        wire-g
         ;;
     0)
         echo -e "${purple}*********************${rest}"
