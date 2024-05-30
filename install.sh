@@ -289,7 +289,6 @@ endipresult() {
     echo ""
     if [ "$Endip_v4" ]; then
         echo -e "${purple}************************************${rest}"
-        echo -e "${purple}*${red}    💛Don't Forget SHΞЯVIN™💛     ${purple}*${rest}"
         echo -e "${purple}*                                  *${rest}"
         echo -e "${purple}*           ${yellow}Best IPv4:Port${purple}         *${rest}"
         echo -e "${purple}*                                  *${rest}"
@@ -298,7 +297,6 @@ endipresult() {
         echo -e "${purple}************************************${rest}"
     elif [ "$Endip_v6" ]; then
         echo -e "${purple}********************************************${rest}"
-	echo -e "${purple}*${red}        💛Don't Forget SHΞЯVIN™💛         ${purple}*${rest}"
         echo -e "${purple}*                                          *${rest}"
         echo -e "${purple}*          ${yellow}Best [IPv6]:Port                ${purple}*${rest}"
         echo -e "${purple}*                                          *${rest}"
@@ -347,7 +345,7 @@ wire-g() {
 clear
 echo -e "${blue}#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#${rest}"
 echo -e "${blue}#+***********************************************+#${rest}"
-echo -e "${blue}#+*${cyan} By --> ÐΛɌ₭ᑎΞ𐒡𐒡 ${blue}# ${red}🧡Don't Forget SHΞЯVIN™🧡${blue} *+#${rest}"
+echo -e "${blue}#+*       ${cyan} By --> ÐΛɌ₭ᑎΞ𐒡𐒡       ${blue} *+#${rest}"
 echo -e "${blue}#+***********************************************+#${rest}"
 echo -e "${blue}#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#${rest}"
 echo ""
