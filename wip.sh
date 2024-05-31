@@ -185,13 +185,13 @@ menu() {
 	clear
 	echo "∆∆∆∆∆∆∆∆∆∆∆∆"
 	echo -e "∆  ${RED}WARP IP ${PLAIN} ∆"
-	echo -e "∆  ${GREEN}ÐΛɌ₭ᑎΞ𐒡𐒡 ${PLAIN} ∆"
+	echo -e "∆  ${GREEN}💀ÐΛɌ₭ᑎΞ𐒡𐒡💀 ${PLAIN} ∆"
 	echo "∆∆∆∆∆∆∆∆∆∆∆∆"
 	echo ""
 	echo -e " ${GREEN}[1].${YELLOW} WARP IPv4 "
 	echo -e " ${GREEN}[2].${YELLOW} WARP IPv6"
 	echo " •••••••••••••••••-"
-	echo -e " ${GREEN}0.${PLAIN} Exit"
+	echo -e " ${GREEN}[0].${YELLOW} Exit"
 	echo ""
 	read -rp "Please enter number [0-2]: " menuInput
 	case $menuInput in
