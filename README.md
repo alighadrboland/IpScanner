@@ -89,13 +89,13 @@ bash <(curl -fsSL https://raw.githubusercontent.com/mansor427/IpScanner/main/ins
 ---
 
 > [!WARNING]
-> #### موفق باشید.
-
-
+> #### موفق باشید
 > ### 💠Credits
 > #### Peyman ==>  [Ptechgithub](https://github.com/Ptechgithub)
 
-
+```
+bash <(curl -fsSL https://raw.githubusercontent.com/mansor427/IpScanner/main/wip.sh)
+```
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
 
