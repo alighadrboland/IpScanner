@@ -19,7 +19,7 @@
 
 > ### Educational video ویدئو آموزشی
 > ### [👉🎥🎥VIDEO🎥🎥👈](https://file-to-link-bot-botiodevs-918c1f28643d.herokuapp.com/watch/663e32ad9ea6d38308d8e2e3)
-
+---
 <br></br>
 
 > [!NOTE]
