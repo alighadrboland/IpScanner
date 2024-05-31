@@ -183,14 +183,14 @@ endpoint6() {
 
 menu() {
 	clear
-	echo "∆∆∆∆∆∆∆∆∆∆∆∆∆∆"
-	echo -e "∆     ${RED}WARP  IP      ∆"
-	echo -e "∆    ${GREEN}ÐΛɌ₭ᑎΞ𐒡𐒡      ∆"
-	echo "∆∆∆∆∆∆∆∆∆∆∆∆∆∆"
+	echo "∆∆∆∆∆∆∆∆∆∆∆∆"
+	echo -e "∆  ${RED}WARP IP ${PLAIN} ∆"
+	echo -e "∆  ${GREEN}ÐΛɌ₭ᑎΞ𐒡𐒡 ${PLAIN} ∆"
+	echo "∆∆∆∆∆∆∆∆∆∆∆∆"
 	echo ""
 	echo -e " ${GREEN}[1].${PLAIN} WARP IPv4 "
 	echo -e " ${GREEN}[2].${PLAIN} WARP IPv6"
-	echo " ••••••••••••••••••••••••-"
+	echo " •••••••••••••••••-"
 	echo -e " ${GREEN}0.${PLAIN} Exit"
 	echo ""
 	read -rp "Please enter number [0-2]: " menuInput
