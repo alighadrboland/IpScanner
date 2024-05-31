@@ -25,7 +25,6 @@
 > [!NOTE]
 > # اسکنر `IP Clean`
 > ### برای استفاده کد زیر را کپی کنید و در برنامه `Termux` جایگذاری کیند
-[![Termux](https://img.shields.io/badge/Download-Termux-purple?style=plastic)](https://github.com/termux/termux-app/releases/tag/v0.118.0)
 
 ![212284100-561aa473-3905-4a80-b561-0d28506553ee](https://github.com/mansor427/IpScanner/assets/104245967/b09437c5-ffbc-49b9-ab64-fd138739dd66)
 
