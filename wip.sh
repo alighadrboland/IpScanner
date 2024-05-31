@@ -183,7 +183,7 @@ endpoint6() {
 
 menu() {
 	clear   
- 	echo -e "∆                         ${GREEN}💀 ÐΛɌ₭ᑎΞ𐒡𐒡 💀 ${PLAIN}                              ∆"
+ 	echo -e "∆                        ${GREEN}💀 ÐΛɌ₭ᑎΞ𐒡𐒡 💀 ${PLAIN}                         ∆"
         echo ""
         echo -e "${GREEN}██████╗  █████╗ ██████╗ ██╗  ██╗███╗   ██╗███████╗███████╗███████╗"
         echo -e "${GREEN}██╔══██╗██╔══██╗██╔══██╗██║ ██╔╝████╗  ██║██╔════╝██╔════╝██╔════╝"
@@ -196,9 +196,9 @@ menu() {
 	echo -e " ${GREEN}[1]•${YELLOW} WARP ${RED}IPv4 "
 	echo -e " ${GREEN}[2]•${YELLOW} WARP ${RED}IPv6"
 	echo -e " ${PLAIN}•••••••••••••••••"
-	echo -e " ${GREEN}[0].${YELLOW} Exit"
+	echo -e " ${GREEN}[0].${YELLOW} Exit ${PLAIN} "
 	echo ""
-	read -rp "${PLAIN}=> Please enter number [0-2]: " menuInput
+	read -rp " => Please enter number [0-2]: " menuInput
 	case $menuInput in
 	2) endpoint6 ;;
 	0) exit 1 ;;
