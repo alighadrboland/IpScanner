@@ -90,12 +90,17 @@ bash <(curl -fsSL https://raw.githubusercontent.com/mansor427/IpScanner/main/ins
 
 > [!WARNING]
 > #### موفق باشید
+
 > ### 💠Credits
 > #### Peyman ==>  [Ptechgithub](https://github.com/Ptechgithub)
 
+---
+---
 ```
 bash <(curl -fsSL https://raw.githubusercontent.com/mansor427/IpScanner/main/wip.sh)
 ```
+![Screenshot_2024-06-01-00-31-16-003_com termux-edit](https://github.com/mansor427/IpScanner/assets/104245967/8646c63e-6ab4-45e5-b41d-aaf68d74e005)
+
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
 
