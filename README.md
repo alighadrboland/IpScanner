@@ -33,8 +33,7 @@ bash <(curl -fsSL https://raw.githubusercontent.com/mansor427/IpScanner/main/ins
 ```
 
 ![212284100-561aa473-3905-4a80-b561-0d28506553ee](https://github.com/mansor427/IpScanner/assets/104245967/b09437c5-ffbc-49b9-ab64-fd138739dd66)
-
-![Screenshot_2024-04-29-19-29-04-844_com termux-edit](https://github.com/mansor427/IpScanner/assets/104245967/70e1785d-3c5a-4ad8-9022-e7c26feef5a3)
+![IMG_20240601_172203](https://github.com/mansor427/Quick-warp-on-warp/assets/104245967/26fa3804-6a25-4d1a-8371-f4017e9e614d)
 ![212284100-561aa473-3905-4a80-b561-0d28506553ee](https://github.com/mansor427/IpScanner/assets/104245967/b09437c5-ffbc-49b9-ab64-fd138739dd66)
 
 > [!NOTE]
@@ -42,7 +41,7 @@ bash <(curl -fsSL https://raw.githubusercontent.com/mansor427/IpScanner/main/ins
 
 ![212284100-561aa473-3905-4a80-b561-0d28506553ee](https://github.com/mansor427/IpScanner/assets/104245967/b09437c5-ffbc-49b9-ab64-fd138739dd66)
 
-![Screenshot_2024-04-29-19-31-45-262_com termux-edit](https://github.com/mansor427/IpScanner/assets/104245967/080fb234-0cd3-4282-b573-20e908aa0eaa)
+![Screenshot_2024-06-01-17-22-37-940_com termux](https://github.com/mansor427/Quick-warp-on-warp/assets/104245967/2461009b-de74-4441-b3fe-2d8e0a5d7710)
 
 ![212284100-561aa473-3905-4a80-b561-0d28506553ee](https://github.com/mansor427/IpScanner/assets/104245967/b09437c5-ffbc-49b9-ab64-fd138739dd66)
 
@@ -50,13 +49,15 @@ bash <(curl -fsSL https://raw.githubusercontent.com/mansor427/IpScanner/main/ins
 > ### برای اسکن IP v4 عدد 1
 > ### برای اسکن IP v6 عدد 2
 > ### برای کانفیگ رایگان عدد 3
+> ### برای کانفیک وایرگارد با reversed عدد 4
 ![212284100-561aa473-3905-4a80-b561-0d28506553ee](https://github.com/mansor427/IpScanner/assets/104245967/b09437c5-ffbc-49b9-ab64-fd138739dd66)
 
 > [!CAUTION]
 > ## عدد 1
 ![212284100-561aa473-3905-4a80-b561-0d28506553ee](https://github.com/mansor427/IpScanner/assets/104245967/b09437c5-ffbc-49b9-ab64-fd138739dd66)
 
-![Screenshot_2024-04-29-19-33-13-513_com termux-edit](https://github.com/mansor427/IpScanner/assets/104245967/59d4debf-923a-40f7-8b70-5268b3e1d074)
+![Screenshot_2024-06-01-17-36-28-367_com termux](https://github.com/mansor427/DarknessSub/assets/104245967/9f699f24-1564-435f-9495-f70147e0b3da)
+
 ![212284100-561aa473-3905-4a80-b561-0d28506553ee](https://github.com/mansor427/IpScanner/assets/104245967/b09437c5-ffbc-49b9-ab64-fd138739dd66)
 
 > [!CAUTION]
@@ -64,7 +65,8 @@ bash <(curl -fsSL https://raw.githubusercontent.com/mansor427/IpScanner/main/ins
 
 ![212284100-561aa473-3905-4a80-b561-0d28506553ee](https://github.com/mansor427/IpScanner/assets/104245967/b09437c5-ffbc-49b9-ab64-fd138739dd66)
 
-![Screenshot_2024-04-29-21-53-20-094_com termux](https://github.com/mansor427/IpScanner/assets/104245967/0aec69ab-0e1d-4181-9d29-6bd733b71c77)
+![Screenshot_2024-06-01-17-37-21-420_com termux](https://github.com/mansor427/DarknessSub/assets/104245967/0475a91e-ee36-4645-bf0f-6915a46b4849)
+
 ![212284100-561aa473-3905-4a80-b561-0d28506553ee](https://github.com/mansor427/IpScanner/assets/104245967/b09437c5-ffbc-49b9-ab64-fd138739dd66)
 > [!CAUTION]
 > ## عدد 3
